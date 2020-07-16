@@ -1,0 +1,27 @@
+﻿<Window x:Class="AssLoanAmountCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AssLoanAmountCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Name="myGrid" Height="440" Margin="0,0,-19,0" Background="#FFFAF5F5" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+        <TextBlock Text="Loan Calculator - Find the Monthly Payment" TextWrapping="Wrap" Height="37" Width="588" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Arial Black" Background="#FF007ACC" Margin="93,10,0,0" />
+
+
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="93,241,0,0" VerticalAlignment="Top" Height="49" Width="206" FontFamily="Arial Black" FontSize="20" Click="Button_Click_1" Background="#FFF6E783"/>
+        <Button Content="Calculate" HorizontalAlignment="Left" Margin="325,241,0,0" VerticalAlignment="Top" Height="49" Width="206" FontFamily="Arial Black" FontSize="20" Click="Button_Click" Background="#FFCAF099"/>
+        <TextBlock x:Name="tblockResult" Height="78" VerticalAlignment="Center" Margin="-1,0,9,0"/>
+        <Label x:Name="lbError" Content="" HorizontalAlignment="Left" Margin="93,293,0,0" VerticalAlignment="Top" Width="546" Foreground="#FFF63030" FontWeight="Bold"/>
+        <TextBox x:Name="tbIntRate"  HorizontalAlignment="Left" Margin="222,115,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial Black" FontSize="16" Height="23" Width="276" TextChanged="tbIntRate_TextChanged_1" />
+        <TextBox x:Name="tbNumbMonth"   HorizontalAlignment="Left" Margin="222,168,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial Black" FontSize="16" Height="23" Width="276" TextChanged="tbNumbMonth_TextChanged_1" />
+        <TextBox x:Name="tbLoanAmount" HorizontalAlignment="Left" Margin="222,61,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial Black" FontSize="16" Height="23" Width="276" TextChanged="tbLoanAmount_TextChanged_1"  />
+        <Label Name="LbResult" HorizontalAlignment="Left" Margin="93,322,0,0" VerticalAlignment="Top" Width="588" FontFamily="Arial Black" FontSize="16" FontWeight="Bold" Height="74" Background="#FFF2F2F2"/>
+        <Label x:Name="lbInterestRat" Content="Interest Rate % :" HorizontalAlignment="Left" Margin="118,115,0,0" VerticalAlignment="Top" Height="31" Width="92"/>
+        <Label x:Name="lbLoanAmount" Content="Loan Amount $ :" HorizontalAlignment="Left" Margin="118,61,0,0" VerticalAlignment="Top"/>
+        <Label x:Name ="lbNumberMonths" Content="Number of months :" Margin="93,168,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="117" />
+
+    </Grid>
+</Window>

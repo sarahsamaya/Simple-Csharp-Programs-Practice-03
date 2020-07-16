@@ -1,0 +1,17 @@
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\bin\Debug\netcoreapp3.1\AssLoanAmountCalculator.exe
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\bin\Debug\netcoreapp3.1\AssLoanAmountCalculator.deps.json
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\bin\Debug\netcoreapp3.1\AssLoanAmountCalculator.runtimeconfig.json
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\bin\Debug\netcoreapp3.1\AssLoanAmountCalculator.runtimeconfig.dev.json
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\bin\Debug\netcoreapp3.1\AssLoanAmountCalculator.dll
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\bin\Debug\netcoreapp3.1\AssLoanAmountCalculator.pdb
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\AssLoanAmountCalculator.csprojAssemblyReference.cache
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\AssLoanAmountCalculator_MarkupCompile.cache
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\AssLoanAmountCalculator_MarkupCompile.lref
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\AssLoanAmountCalculator.g.resources
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\AssLoanAmountCalculator.AssemblyInfoInputs.cache
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\AssLoanAmountCalculator.AssemblyInfo.cs
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\AssLoanAmountCalculator.dll
+C:\Users\Sarah Samaya\source\repos\AssLoanAmountCalculator\obj\Debug\netcoreapp3.1\AssLoanAmountCalculator.pdb
